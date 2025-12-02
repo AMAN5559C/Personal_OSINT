@@ -1,0 +1,7 @@
+streamlit
+face_recognition
+playwright
+requests
+fpdf2
+Pillow
+numpy
